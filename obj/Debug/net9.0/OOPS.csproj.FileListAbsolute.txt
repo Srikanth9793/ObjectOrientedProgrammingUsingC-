@@ -1,0 +1,14 @@
+D:\csharp\CsharpProjects\OOPS\bin\Debug\net9.0\OOPS.exe
+D:\csharp\CsharpProjects\OOPS\bin\Debug\net9.0\OOPS.deps.json
+D:\csharp\CsharpProjects\OOPS\bin\Debug\net9.0\OOPS.runtimeconfig.json
+D:\csharp\CsharpProjects\OOPS\bin\Debug\net9.0\OOPS.dll
+D:\csharp\CsharpProjects\OOPS\bin\Debug\net9.0\OOPS.pdb
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.AssemblyInfoInputs.cache
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.AssemblyInfo.cs
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.csproj.CoreCompileInputs.cache
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.dll
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\refint\OOPS.dll
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.pdb
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\OOPS.genruntimeconfig.cache
+D:\csharp\CsharpProjects\OOPS\obj\Debug\net9.0\ref\OOPS.dll
